@@ -2,11 +2,9 @@
 Aula 80 - Módulos
 
 Declaração: import <arquivo.py>
-
 Importa todo o módulo (funções, atributos, classes e propriedades)
 
 Declaração: from <módulo> import <function>
-
 Importa apenas o que se deseja
 """
 # Importando apenas a função que se deseja
